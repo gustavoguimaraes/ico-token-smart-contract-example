@@ -13,8 +13,8 @@ import "./StandardToken.sol";
  */
 contract CrowdsaleToken is StandardToken {
 
-  string public constant name = "CrowdsaleToken";
-  string public constant symbol = "CRW";
+  string public constant name = "Gustavo Token";
+  string public constant symbol = "GUST";
   uint public constant decimals = 18;
   // replace with your fund collection multisig address
   address public constant multisig = 0x0;
